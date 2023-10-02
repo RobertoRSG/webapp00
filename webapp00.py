@@ -13,8 +13,8 @@ st.header("ele gosta de mel")
 st.subheader("Mas nao paga o aluguel")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("ele adora um pincel")
 
-st.info("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.info("mas quando dorme no hotel,")
 
-st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.warning("ele deita no Manoel")
